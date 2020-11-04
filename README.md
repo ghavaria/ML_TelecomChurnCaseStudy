@@ -5,6 +5,7 @@
 - For many incumbent operators, retaining high profitable customers is the number one business goal.
 - To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.
 - We will analyse customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn and identify the main indicators of churn.
+- data set can be downloaded from this link : https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view
 
 ##### Approach:
 - The business objective is to predict the churn in the last (i.e. the ninth) month using the data (features) from the first three months
